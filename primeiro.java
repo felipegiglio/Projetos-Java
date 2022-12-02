@@ -1,10 +1,11 @@
+import java.util.Scanner;
+
 public class primeiro{
     public static void main(String[]args) {
-        double a;
-        int b;
-
-        a = 5.0;
-        b = (int)a;
-        System.out.println(b);
+        Scanner sc = new Scanner(System.in);
+        String x;
+        x = sc.next();
+        System.out.println("--------------");
+        System.out.println(x);
     }        
 }
