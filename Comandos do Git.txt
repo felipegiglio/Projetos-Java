@@ -1,0 +1,33 @@
+cmd
+ls - listar pastas
+dir - mostrar pastas
+cd - entrar na pasta
+mkdir - criar pastas
+rmdir ou rm- excluir pastas
+clear ou cls - limpar a tela
+ren ou rename - renoomear 
+type ou echo > teste.txt - criar arquivos
+--------------------------
+comandos do git
+git init - iniciar o repositorio
+git status - listando arquivos novos
+git add . - adicionando os arquivos
+git rm --cached - desfanzendo a operação de comid
+git commit -m "Novo" - Colando titulo no commid
+git branch main - criar pasta(branch)
+git checkout - mudando para pasta(branch)
+git branch -d master - escluir a branch(-d excluir com merge ou -D excluir forçado)
+git branch -m m - mudando o nome da branch
+git log - historico de commid
+git push - enviar os arquivos para o github
+git remote add origin url - conectando a rede do github
+git remote - verficar se a coneção esta ok
+git remote - v - verificar em qual url esta conectado
+git push origin :f - Deletar a branch remoto
+git remote remove origin - desconectar o serviço
+git log --oneline - historico de commits 
+git remote set-url origin- Mudar a url
+
+
+
+

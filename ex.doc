@@ -1,4 +1,21 @@
-    1- Elaborar um programa que apresente o valor da conversão em real (R$) de um valor lido em dólar (US$). O programa deve solicitar o valor da cotação do dólar
+1- Elaborar um programa que apresente o valor da conversão em 
+real (R$) de um valor lido em dólar (US$). 
+O programa deve solicitar o valor da cotação do dólar.
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+   
     2-  Construir um programa que leia três valores numéricos inteiros (representados pelas variáveis A, B e C) e apresente como resultado final o valor da soma dos três valores lidos.
     3- Elaborar um programa que calcule e apresente o valor do volume de uma caixa retangular, utilizando a fórmula VOLUME <- COMPRIMENTO * LARGURA * ALTURA
     4- Faça  um programa que leia dois valores inteiro distintos e informe qual é o maior.
