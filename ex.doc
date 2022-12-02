@@ -1,0 +1,67 @@
+    1- Elaborar um programa que apresente o valor da conversão em real (R$) de um valor lido em dólar (US$). O programa deve solicitar o valor da cotação do dólar
+    2-  Construir um programa que leia três valores numéricos inteiros (representados pelas variáveis A, B e C) e apresente como resultado final o valor da soma dos três valores lidos.
+    3- Elaborar um programa que calcule e apresente o valor do volume de uma caixa retangular, utilizando a fórmula VOLUME <- COMPRIMENTO * LARGURA * ALTURA
+    4- Faça  um programa que leia dois valores inteiro distintos e informe qual é o maior.
+    5- Em uma fábrica, uma máquina precisa de manutenção sempre que o número de peças defeituosas for maior que o número de produção da produção. Dados o total de peças produzidas e o total de peças defeituosas, informe se a máquina precisa de manutenção ou não precisa de manutenção
+    6- Dada a idade de um nadador, informe a sua categoria: Infantil (até 10 anos), Juvenil (até 17 anos) ou Sênior (acima de 17 anos)
+    7- Faça um programa que leia 2 notas de cada aluno de uma turma de 20 alunos e calcular a média de cada aluno e media da turma. Exibir a média da turma.
+    8- Um sistema de equações lineares do tipo:
+, pode ser resolvido segundo mostrado abaixo :
+ 
+Escreva um algoritmo que lê os coeficientes a,b,c,d,e e f e calcula e mostra os valores de x e y.
+    9- O cardápio de uma lancheria é o seguinte:
+Especificação
+Código
+Preço
+Cachorro quente
+100
+1,20
+Bauru simples
+101
+1,30
+Bauru com ovo
+102
+1,50
+Hambúrger
+103
+1,20
+Cheeseburguer
+104
+1,30
+Refrigerante
+105
+1,00
+Escrever um algoritmo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item.
+10-Tendo como dados de entrada a altura e o sexo de uma pessoa (?M? masculino e ?F? feminino), construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+- para homens: (72.7*h)-58
+          - para mulheres: (62.1*h)-44.7
+
+    11- Um vendedor necessita de um algoritmo que calcule o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total, usando a tabela abaixo:
+Código do Produto
+Preço unitário
+1001
+5,32
+1324
+6,45
+6548
+2,37
+0987
+5,32
+7623
+6,45
+    12- Escreva um algoritmo que leia 3 números inteiros e mostre o maior deles.
+    13- Crie um programa que, dado um número informado pelo usuário, imprima a tabuada 
+    14- Escrever um programa de computador que leia 10 números inteiros e, ao final, apresente a soma de todos os números lidos;
+    15- Escreva um programa que lido um número, calcule e informe o seu fatorial.
+    16- Faça um algoritmo que leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit. A fórmula de conversão é: F = (9 * C + 160) / 5, na qual F é a temperatura em Fahrenheit e C é a temperatura em Celsius;
+    17- Faça o português estruturado e o diagrama de blocos para cada  séries abaixo, usando a estrutura de repetição repita:
+
+
+
+    18- Faça  o português estruturado para ler um valor x qualquer , calcular  e apresentar o resultado de y. Y = (x+1)+(x+2)+(x+3)+(x+4)+(x+5)+…(x+100). 
+    19- Elabore um programa que lei um numero e mostre na tela se o mesmo é par ou ímpar
+    20- A prefeitura de uma cidade fez uma pesquisa com 100 habitantes, coletando dados sobre o salário e número de filhos. A prefeitura deseja saber:  
+a) média do salário da população;
+b) média do número de filhos;
+21– Faça um programa que leia uma matriz 3x3 e exiba a mesma na tela
+22-Faça um programa que leia duas matrizes  4x4 e exiba a  na tela a somas das 2 matrizes.
