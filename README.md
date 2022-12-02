@@ -1,3 +1,3 @@
 # Projeto Java(Learning)
-* I am learning java
+* I am learning java (Eu estou apreendo java)
     * Java
